@@ -52,3 +52,4 @@ Ceci est le projet final pour mon stage d'été. Il s'agit d'une application web
     * **Espace Administrateur** : [http://localhost:8081/admin/dashboard](http://localhost:8081/admin/dashboard)
         * **Login** : `admin`
         * **Mot de passe** : `admin123`
+
